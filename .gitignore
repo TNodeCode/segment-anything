@@ -1,5 +1,11 @@
 .nfs*
 
+# data locations
+images/
+
+# log files
+**/*.log
+
 # compilation and distribution
 __pycache__
 _ext
